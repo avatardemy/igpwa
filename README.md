@@ -1,6 +1,6 @@
-# igpwa
+# Instagram PWA
 
-> Instagram PWA Demo
+> Instagram PWA with Vue
 
 ## Build Setup
 
