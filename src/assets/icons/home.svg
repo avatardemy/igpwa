@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="61px" height="53px" viewBox="0 0 61 53" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>Home Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1---Home-Tab" transform="translate(-168.000000, -1544.000000)">
+            <g id="Home-Icon" transform="translate(173.000000, 1549.000000)">
+                <path d="M50.5,24.5 L26,0" id="Line" stroke="#FFFFFF" stroke-width="7" stroke-linecap="square"></path>
+                <path d="M0.5,25.5 L25,1" id="Line" stroke="#FFFFFF" stroke-width="7" stroke-linecap="square"></path>
+                <path d="M4,25 C4,25 17.9975715,4.05778313 25.5,4.05778313 C32.3309048,4.05778313 47,25 47,25 L47,48 L33.3975945,47.9999981 C33.3975945,47.9999981 33.3975951,39.5060236 33.3975945,33.892519 C33.3813717,28.2925797 29.8094686,25 26.0619812,25 C22.3134465,25 18.205205,27.7705021 18.205205,33.892519 L18.205205,47.9999981 L4,48 L4,25 Z" id="Rectangle-117" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>

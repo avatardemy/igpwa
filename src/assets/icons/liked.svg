@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="16px" viewBox="0 0 18 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.1 (43504) - http://www.bohemiancoding.com/sketch -->
+    <title>Like Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1---Home-Tab" transform="translate(-151.000000, -1363.000000)" fill="#115688">
+            <g id="Likes-Label" transform="translate(151.000000, 1354.000000)">
+                <path d="M0,14.8779672 C-3.21887852e-07,11.6316389 2.38643579,9 5.05131612,9 C7.71619644,9 9,10.7407437 9,10.7407437 C9,10.7407437 10.2838036,9 12.9486839,9 C15.6135642,9 18.0000003,11.6316389 18,14.8779672 C17.9999996,18.1242955 13.8365043,22.4066988 9,24.75 C4.16349572,22.4066988 3.95805655e-07,18.1242955 0,14.8779672 Z" id="Like-Icon"></path>
+            </g>
+        </g>
+    </g>
+</svg>
