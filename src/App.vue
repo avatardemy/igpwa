@@ -61,9 +61,9 @@ export default {
       this.$router.push('/login');
     },
     upload(files) {
-      this.loading = true;
       if (files.length < 1) return;
       this.showModal = true;
+      this.loading = true;
       const tempURL = this.convertToDataURL(files[0]);
       this.vintegize(tempURL, {})
         .then((img) => {
